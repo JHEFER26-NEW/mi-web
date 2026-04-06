@@ -1,0 +1,10 @@
+Pruebas manuales
+- Desktop: revisar menú, foto, redes, skills y proyectos
+- Tablet: revisar que las secciones se acomoden en una columna o dos según espacio
+- Celular: revisar que nada se salga de pantalla
+- Probar enlaces:
+  * WhatsApp
+  * Instagram
+  * X
+  * Correo
+- Revisar que las animaciones aparezcan al hacer scroll
